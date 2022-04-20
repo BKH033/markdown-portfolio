@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Image of my profile](https://xcraft.net/uploads/fotos_ru/foto_4360758.png)
